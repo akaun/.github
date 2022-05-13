@@ -2,19 +2,12 @@
 
 ![BigLedger Logo](assets/bigledger_logo.jpeg)
 
-## [Public User Guide](https://github.com/akaun/Public-Guide/tree/main/User_Guide)
+## [User Guide](https://github.com/akaun/Public-Guide)
 
 This guide is written for general public users, including new users, software developers developing applets, third party integrators, resellers and so on.
 
-## Guide by Industry
+## [Guide for BigLedger Employees](https://github.com/akaun/Private-Guide)
 
-
-
-## Guide by Modules
-
-
-## Guide by Applets
-
-## Guide for BigLedger Employees
+This guide is meant for BigLedger employees only.
 
 
