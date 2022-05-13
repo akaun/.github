@@ -3,12 +3,19 @@
 ![BigLedger Logo](bigledger_logo.jpeg)
 
 
-## Overview of Akaun Platform
+## [Guide for Public Users](https://github.com/akaun/Platform-Guide)
 
-Click here to see [overview](https://github.com/akaun/Platform-Guide)
+This guide is written for general public users, including new users, software developers developing applets, third party integrators, resellers and so on.
 
-## Guide For Developers
+## Guide by Industry
 
 
-## Guide for end users
+
+## Guide by Modules
+
+
+## Guide by Applets
+
+## Guide for BigLedger Employees
+
 
