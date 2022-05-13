@@ -2,7 +2,7 @@
 
 ![BigLedger Logo](assets/bigledger_logo.jpeg)
 
-## [Public User Guide](https://github.com/akaun/Public-Guide/tree/main/UserGuide)
+## [Public User Guide](https://github.com/akaun/Public-Guide/tree/main/User_Guide)
 
 This guide is written for general public users, including new users, software developers developing applets, third party integrators, resellers and so on.
 
