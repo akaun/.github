@@ -2,6 +2,8 @@
 
 ![BigLedger Logo](bigledger_logo.jpeg)
 
+[The public guide1](PublicUserGuide)
+[The public guide2](PublicUserGuide/)
 
 ## [Guide for Public Users](https://github.com/akaun/Platform-Guide)
 
