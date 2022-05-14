@@ -1,4 +1,5 @@
-= Akaun Platform
+Akaun Platform
+
 
 image::assets/bigledger_logo.jpeg[BigLedger Logo]
 
